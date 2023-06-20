@@ -98,12 +98,12 @@ class SSD300(nn.Module):
 
 
             # ECA模块【6个特征层：96 1280 512 256 256 256 】   
-            self.ECA1 = ECAModule(96)
-            self.ECA2 = ECAModule(1280)
-            self.ECA3 = ECAModule(512)
-            self.ECA4 = ECAModule(256)
-            self.ECA5 = ECAModule(256)
-            self.ECA6 = ECAModule(256) 
+            # self.ECA1 = ECAModule(96)
+            # self.ECA2 = ECAModule(1280)
+            # self.ECA3 = ECAModule(512)
+            # self.ECA4 = ECAModule(256)
+            # self.ECA5 = ECAModule(256)
+            # self.ECA6 = ECAModule(256) 
 
 
             loc_layers      = []
@@ -169,13 +169,13 @@ class SSD300(nn.Module):
 
         #添加ECA模块
 
-        if self.backbone_name != "vgg":
-            sources_final.append(self.ECA1(sources[0]))
-            sources_final.append(self.ECA2(sources[1]))
-            sources_final.append(self.ECA3(sources[2]))
-            sources_final.append(self.ECA4(sources[3]))
-            sources_final.append(self.ECA5(sources[4]))
-            sources_final.append(self.ECA6(sources[5]))
+        # if self.backbone_name != "vgg":
+        #     sources_final.append(self.ECA1(sources[0]))
+        #     sources_final.append(self.ECA2(sources[1]))
+        #     sources_final.append(self.ECA3(sources[2]))
+        #     sources_final.append(self.ECA4(sources[3]))
+        #     sources_final.append(self.ECA5(sources[4]))
+        #     sources_final.append(self.ECA6(sources[5]))
 
         #   为获得的6个有效特征层添加回归预测和分类预测  
         if self.backbone_name == "vgg":
@@ -183,7 +183,7 @@ class SSD300(nn.Module):
                 loc.append(l(x).permute(0, 2, 3, 1).contiguous())
                 conf.append(c(x).permute(0, 2, 3, 1).contiguous())
         else:
-            for (x, l, c) in zip(sources_final, self.loc, self.conf):
+            for (x, l, c) in zip(sources, self.loc, self.conf):
                 loc.append(l(x).permute(0, 2, 3, 1).contiguous())
                 conf.append(c(x).permute(0, 2, 3, 1).contiguous())
         
