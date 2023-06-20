@@ -1,0 +1,41 @@
+<annotation>
+	<filename>2009_005269.jpg</filename>
+	<folder>VOC2012</folder>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmax>337</xmax>
+			<xmin>243</xmin>
+			<ymax>179</ymax>
+			<ymin>86</ymin>
+		</bndbox>
+		<difficult>0</difficult>
+		<occluded>1</occluded>
+		<pose>Frontal</pose>
+		<truncated>1</truncated>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmax>148</xmax>
+			<xmin>103</xmin>
+			<ymax>153</ymax>
+			<ymin>56</ymin>
+		</bndbox>
+		<difficult>0</difficult>
+		<occluded>1</occluded>
+		<pose>Left</pose>
+		<truncated>1</truncated>
+	</object>
+	<segmented>1</segmented>
+	<size>
+		<depth>3</depth>
+		<height>500</height>
+		<width>383</width>
+	</size>
+	<source>
+		<annotation>PASCAL VOC2009</annotation>
+		<database>The VOC2009 Database</database>
+		<image>flickr</image>
+	</source>
+</annotation>

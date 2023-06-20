@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>001812.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>152284121</flickrid>
+	</source>
+	<owner>
+		<flickrid>bowbrick</flickrid>
+		<name>Steve  Bowbrick</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>486</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>124</ymin>
+			<xmax>323</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002920.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>331629056</flickrid>
+	</source>
+	<owner>
+		<flickrid>chuhan-photo-works</flickrid>
+		<name>chuhanworks</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>178</ymin>
+			<xmax>392</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

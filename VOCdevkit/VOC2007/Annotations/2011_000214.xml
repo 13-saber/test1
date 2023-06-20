@@ -1,0 +1,41 @@
+<annotation>
+	<filename>2011_000214.jpg</filename>
+	<folder>VOC2012</folder>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmax>299</xmax>
+			<xmin>233</xmin>
+			<ymax>288</ymax>
+			<ymin>150</ymin>
+		</bndbox>
+		<difficult>0</difficult>
+		<occluded>1</occluded>
+		<pose>Rear</pose>
+		<truncated>0</truncated>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmax>216</xmax>
+			<xmin>185</xmin>
+			<ymax>227</ymax>
+			<ymin>164</ymin>
+		</bndbox>
+		<difficult>0</difficult>
+		<occluded>1</occluded>
+		<pose>Rear</pose>
+		<truncated>0</truncated>
+	</object>
+	<segmented>0</segmented>
+	<size>
+		<depth>3</depth>
+		<height>334</height>
+		<width>500</width>
+	</size>
+	<source>
+		<annotation>PASCAL VOC2011</annotation>
+		<database>The VOC2011 Database</database>
+		<image>flickr</image>
+	</source>
+</annotation>

@@ -1,0 +1,771 @@
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000059.jpg 110,210,328,500,0 72,272,115,356,0 125,274,171,353,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000146.jpg 155,208,252,408,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000181.jpg 259,159,410,287,0 121,154,304,369,0 17,129,277,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000193.jpg 80,4,500,375,0 1,29,227,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000226.jpg 233,161,296,221,0 352,168,404,243,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000230.jpg 250,72,357,355,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000231.jpg 337,124,366,227,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000240.jpg 348,153,374,189,0 159,153,175,193,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000247.jpg 114,51,273,374,0 146,143,247,395,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000286.jpg 94,218,226,375,0 189,11,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000405.jpg 16,39,312,479,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000428.jpg 76,106,376,404,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000449.jpg 416,61,480,193,0 210,118,306,208,0 129,94,199,209,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000479.jpg 34,2,374,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000482.jpg 33,103,58,137,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000498.jpg 114,256,201,496,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000506.jpg 48,4,325,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000523.jpg 145,103,209,256,0 212,187,304,417,0 343,228,361,255,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000525.jpg 443,116,500,217,0 104,113,169,219,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000567.jpg 144,63,312,362,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000586.jpg 104,334,141,454,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000709.jpg 120,63,334,355,0 119,57,394,352,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000760.jpg 121,133,159,228,0 215,144,243,227,0 320,121,360,223,0 373,131,410,192,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000781.jpg 103,66,489,400,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000784.jpg 91,107,169,371,0 157,114,211,370,0 188,96,260,363,0 236,88,292,361,0 287,83,352,351,0 329,90,380,353,0 376,100,425,342,0 114,26,157,119,0 118,64,165,117,0 153,35,191,111,0 178,49,239,134,0 233,47,293,137,0 274,57,305,129,0 302,58,340,111,0 340,45,382,124,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000793.jpg 289,100,316,183,0 241,111,270,180,0 218,107,236,178,0 402,67,467,259,0 65,110,84,161,0 96,107,114,159,0 100,78,190,282,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000851.jpg 174,69,302,335,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000903.jpg 41,25,407,366,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000975.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000988.jpg 76,56,401,373,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/000990.jpg 208,35,460,333,0 5,34,234,334,0 6,114,55,177,0 402,134,450,187,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001001.jpg 315,102,427,356,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001033.jpg 145,98,310,386,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001050.jpg 235,126,297,241,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001092.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001096.jpg 175,39,334,225,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001125.jpg 164,149,199,220,0 302,152,342,312,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001140.jpg 169,64,260,402,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001296.jpg 179,47,333,300,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001297.jpg 1,86,330,409,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001304.jpg 143,184,175,264,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001315.jpg 42,51,237,334,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001366.jpg 209,149,262,275,0 257,149,296,280,0 282,165,375,331,0 57,179,122,330,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001423.jpg 124,56,382,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001450.jpg 183,70,330,253,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001452.jpg 94,142,252,350,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001482.jpg 2,195,48,375,0 145,146,235,375,0 73,170,163,375,0 200,162,306,375,0 276,143,382,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001506.jpg 189,71,286,354,0 373,105,478,347,0 37,119,125,340,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001509.jpg 139,279,179,366,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001548.jpg 133,145,287,328,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001563.jpg 344,110,446,273,0 262,86,360,199,0 130,125,200,202,0 212,131,288,202,0 5,110,132,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001603.jpg 320,125,383,199,0 371,45,422,108,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001628.jpg 200,55,320,217,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001635.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001664.jpg 61,1,327,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001721.jpg 229,169,383,341,0 229,193,309,324,0 371,223,401,273,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001722.jpg 206,185,308,370,0 299,169,500,375,0 1,285,54,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001729.jpg 284,107,411,280,0 126,83,257,285,0 9,167,160,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001743.jpg 206,43,344,226,0 333,73,361,198,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001791.jpg 10,19,381,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001801.jpg 323,156,389,235,0 194,143,257,280,0 125,151,157,214,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001864.jpg 218,60,381,375,0 91,83,216,375,0 61,55,249,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001904.jpg 371,107,470,284,0 201,114,422,335,0 130,117,210,246,0 40,126,132,236,0 1,55,55,285,0 199,69,391,335,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001932.jpg 168,2,453,325,0 2,120,92,371,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/001979.jpg 191,320,231,426,0 234,324,277,425,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002060.jpg 204,151,299,335,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002071.jpg 72,116,134,201,0 205,76,254,203,0 281,104,318,204,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002074.jpg 207,92,291,268,0 100,104,177,160,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002090.jpg 110,44,312,300,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002096.jpg 46,45,270,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002104.jpg 224,16,380,330,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002120.jpg 64,24,496,334,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002164.jpg 1,35,463,345,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002194.jpg 81,107,155,278,0 127,117,177,283,0 295,126,464,305,0 377,144,464,268,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002203.jpg 10,41,436,338,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002230.jpg 52,246,150,356,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002239.jpg 341,79,424,283,0 290,132,344,262,0 111,61,186,245,0 10,75,61,140,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002261.jpg 259,54,337,308,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002281.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002285.jpg 129,84,352,316,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002311.jpg 338,8,373,131,0 404,7,445,132,0 419,108,474,167,0 377,22,411,105,0 444,29,488,126,0 286,18,320,65,0 179,23,207,57,0 143,27,174,56,0 118,15,136,58,0 29,33,61,91,0 316,19,341,71,0 367,19,393,104,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002421.jpg 249,29,323,247,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002472.jpg 390,184,414,246,0 422,177,443,247,0 479,181,500,244,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002498.jpg 1,87,195,375,0 259,93,452,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002511.jpg 190,84,295,295,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002520.jpg 331,167,382,285,0 440,181,468,285,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002538.jpg 120,42,274,290,0 104,1,282,305,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002540.jpg 155,135,201,270,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002563.jpg 417,245,433,284,0 120,254,135,294,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002589.jpg 18,91,111,275,0 208,145,349,300,0 157,95,242,286,0 226,49,316,237,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002639.jpg 345,158,402,284,0 240,141,307,301,0 185,156,242,301,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002643.jpg 407,57,453,174,0 180,102,281,207,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002657.jpg 268,353,296,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002678.jpg 396,1,469,316,0 65,1,167,143,0 1,1,63,169,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002696.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002705.jpg 43,54,221,375,0 185,100,433,353,0 446,36,500,206,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002739.jpg 152,156,229,322,0 361,25,383,78,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002746.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002767.jpg 114,171,249,375,0 19,172,111,274,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002788.jpg 319,70,500,334,0 235,70,336,334,0 249,70,273,112,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002827.jpg 274,64,500,322,0 41,64,283,311,0 1,95,34,201,0 61,113,97,145,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002889.jpg 235,61,309,333,0 144,68,238,330,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002899.jpg 251,199,349,442,0 217,227,274,434,0 149,327,201,449,0 96,309,184,464,0 29,305,100,474,0 1,245,74,448,0 3,220,156,318,0 72,232,131,341,0 126,213,174,245,0 154,184,206,237,0 188,179,256,235,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002901.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/002964.jpg 33,27,210,411,0 256,55,317,228,0 2,40,47,171,0 22,66,64,197,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003022.jpg 241,51,299,181,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003025.jpg 213,90,314,178,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003031.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003044.jpg 80,426,103,500,0 96,427,117,497,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003064.jpg 79,103,215,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003081.jpg 5,60,316,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003138.jpg 205,76,445,375,0 1,119,144,374,0 387,122,454,220,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003198.jpg 1,44,277,285,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003218.jpg 430,93,482,241,0 232,95,280,224,0 279,100,321,212,0 83,91,115,168,0 304,88,338,152,0 347,85,378,198,0 376,81,396,191,0 455,74,483,138,0 330,82,359,187,0 36,88,80,245,0 132,82,154,157,0 11,80,47,227,0 242,81,251,100,0 227,73,238,91,0 213,77,233,116,0 109,84,135,157,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003222.jpg 213,29,380,224,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003225.jpg 429,177,478,265,0 355,213,465,359,0 200,218,341,335,0 232,174,309,252,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003237.jpg 130,53,256,256,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003247.jpg 261,14,380,332,0 158,29,265,335,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003253.jpg 1,1,500,426,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003309.jpg 1,135,319,320,0 227,133,500,349,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003331.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003341.jpg 26,14,147,330,0 119,85,215,318,0 189,94,284,315,0 275,92,355,298,0 316,131,422,328,0 259,38,453,312,0 377,27,486,273,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003355.jpg 226,122,376,276,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003407.jpg 202,104,395,374,0 28,160,181,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003412.jpg 131,62,332,440,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003416.jpg 1,11,320,296,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003426.jpg 107,15,363,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003435.jpg 255,17,500,334,0 55,151,266,334,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003475.jpg 270,161,316,285,0 222,165,261,229,0 1,232,53,332,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003538.jpg 191,19,340,344,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003553.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003556.jpg 129,5,306,453,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003562.jpg 65,50,241,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003566.jpg 113,133,227,340,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003580.jpg 1,6,352,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003581.jpg 2,24,265,375,0 305,30,498,375,0 274,1,321,69,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003600.jpg 197,32,362,367,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003601.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003613.jpg 1,175,121,358,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003633.jpg 287,137,312,232,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003641.jpg 158,75,245,306,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003643.jpg 128,71,326,421,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003649.jpg 42,152,134,316,0 129,160,179,241,0 158,153,201,211,0 224,149,292,201,0 295,149,339,198,0 310,146,386,269,0 366,142,500,316,0 402,149,500,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003655.jpg 96,37,293,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003691.jpg 142,107,215,312,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003708.jpg 1,89,351,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003749.jpg 170,57,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003794.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003851.jpg 7,327,60,448,0 183,213,322,461,0 134,325,185,398,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003880.jpg 2,1,238,286,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003938.jpg 217,123,422,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003944.jpg 203,29,500,374,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/003974.jpg 255,164,298,316,0 284,141,333,312,0 322,146,374,312,0 367,152,411,314,0 386,152,415,320,0 408,141,447,328,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004014.jpg 3,48,303,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004047.jpg 151,91,398,471,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004068.jpg 260,18,430,259,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004084.jpg 107,23,181,133,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004170.jpg 335,153,368,207,0 312,174,342,214,0 125,140,157,196,0 156,143,211,219,0 185,140,213,218,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004209.jpg 272,3,345,192,0 358,3,436,242,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004237.jpg 132,138,266,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004259.jpg 172,166,252,303,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004266.jpg 435,64,500,177,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004270.jpg 280,120,433,375,0 140,103,333,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004305.jpg 181,231,208,265,0 288,245,351,362,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004322.jpg 3,37,241,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004357.jpg 277,199,321,352,0 357,209,429,330,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004381.jpg 231,23,359,165,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004397.jpg 2,1,335,440,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004420.jpg 65,38,303,294,0 281,142,490,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004424.jpg 166,97,298,500,0 85,90,255,500,0 23,100,57,145,0 100,73,126,122,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004479.jpg 2,63,85,326,0 171,73,373,361,0 373,123,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004511.jpg 224,1,500,251,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004547.jpg 283,99,389,350,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004568.jpg 1,23,128,277,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004573.jpg 270,118,295,152,0 201,135,227,169,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004605.jpg 158,29,292,315,0 444,36,500,332,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004642.jpg 112,36,397,322,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004647.jpg 275,57,371,312,0 115,53,213,213,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004673.jpg 80,66,204,270,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004709.jpg 5,71,448,374,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004715.jpg 202,127,331,374,0 159,103,305,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004753.jpg 2,23,393,375,0 208,12,329,163,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004771.jpg 110,75,318,400,0 268,154,368,330,0 221,329,374,500,0 24,353,236,500,0 3,128,84,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004902.jpg 217,118,389,375,0 195,68,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004944.jpg 104,227,206,375,0 196,143,259,284,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004946.jpg 134,43,277,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004959.jpg 93,100,107,152,0 104,102,121,153,0 30,123,58,162,0 46,109,68,132,0 69,117,91,158,0 204,121,285,333,0 300,128,429,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/004976.jpg 311,108,476,221,0 224,98,350,226,0 177,132,247,263,0 43,139,196,332,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005052.jpg 1,11,161,496,0 147,141,325,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005054.jpg 78,135,258,485,0 154,84,334,479,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005095.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005103.jpg 122,42,287,461,0 308,111,375,359,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005116.jpg 302,97,401,240,0 165,103,332,272,0 416,107,500,246,0 380,67,409,161,0 302,75,348,112,0 15,43,37,81,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005122.jpg 3,57,54,204,0 61,73,285,349,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005129.jpg 124,126,380,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005151.jpg 317,85,500,328,0 150,89,270,277,0 1,96,140,247,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005208.jpg 111,156,231,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005232.jpg 292,94,404,271,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005377.jpg 1,26,171,276,0 329,1,408,66,0 282,49,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005392.jpg 191,103,222,170,0 289,152,340,333,0 222,150,295,332,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005526.jpg 1,4,268,375,0 219,116,457,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005533.jpg 113,193,176,348,0 158,178,214,344,0 260,196,303,286,0 262,206,332,302,0 34,216,82,301,0 2,216,26,268,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005582.jpg 74,8,382,375,0 370,2,500,375,0 1,2,107,375,0 297,25,339,108,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005634.jpg 273,54,435,307,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005639.jpg 250,130,308,209,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005698.jpg 1,2,118,189,0 1,89,155,301,0 331,110,500,325,0 153,85,344,290,0 89,16,208,212,0 418,1,485,102,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005708.jpg 278,33,373,358,0 334,42,412,310,0 3,25,134,358,0 217,38,309,288,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005712.jpg 206,1,500,248,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005716.jpg 1,7,295,297,0 368,1,500,206,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005741.jpg 4,112,99,288,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005774.jpg 131,22,305,414,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005778.jpg 319,109,500,375,0 219,149,366,375,0 94,112,258,375,0 1,125,139,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005784.jpg 6,22,410,278,0 7,106,494,438,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005804.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005808.jpg 252,100,431,375,0 27,117,316,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005848.jpg 83,48,301,320,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005856.jpg 157,82,312,372,0 117,52,434,322,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005884.jpg 81,39,245,212,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005926.jpg 28,27,314,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005972.jpg 92,40,308,455,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/005984.jpg 60,58,445,374,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006014.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006060.jpg 263,69,500,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006130.jpg 3,85,263,352,0 203,81,428,367,0 360,78,500,370,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006133.jpg 2,82,63,196,0 455,96,485,174,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006137.jpg 238,107,273,141,0 237,120,266,140,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006233.jpg 386,303,423,347,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006248.jpg 217,65,279,228,0 180,39,229,276,0 41,46,225,309,0 253,16,500,336,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006282.jpg 119,98,312,334,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006286.jpg 80,88,405,375,0 436,147,475,209,0 381,145,428,191,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006300.jpg 33,112,72,188,0 100,92,178,267,0 282,37,429,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006320.jpg 26,104,65,213,0 66,137,93,214,0 93,141,118,213,0 465,103,480,161,0 108,110,132,176,0 56,109,75,188,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006360.jpg 353,66,500,338,0 2,110,151,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006398.jpg 1,100,180,375,0 43,50,206,254,0 159,57,236,198,0 391,95,500,375,0 362,72,500,269,0 332,71,399,212,0 312,40,355,139,0 261,36,317,105,0 1,56,52,195,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006414.jpg 1,3,229,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006432.jpg 265,135,398,373,0 125,103,285,375,0 320,46,449,373,0 66,93,202,375,0 387,165,500,374,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006469.jpg 100,163,136,227,0 206,157,258,284,0 258,206,341,305,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006482.jpg 30,31,406,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006488.jpg 245,51,498,359,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006531.jpg 210,240,227,262,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006552.jpg 150,22,436,277,0 255,58,320,211,0 225,156,257,197,0 85,160,141,255,0 1,67,122,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006602.jpg 202,365,293,489,0 22,254,85,445,0 99,365,191,465,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006617.jpg 224,36,281,192,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006618.jpg 131,49,251,284,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006620.jpg 193,1,323,297,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006624.jpg 370,128,432,336,0 295,153,388,262,0 111,149,187,229,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006663.jpg 227,15,293,95,0 351,59,500,286,0 11,61,191,241,0 1,162,162,313,0 329,23,447,148,0 332,17,404,105,0 84,11,186,146,0 57,20,164,170,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006698.jpg 245,1,495,375,0 70,128,387,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006714.jpg 3,79,373,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006780.jpg 58,21,296,458,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006782.jpg 1,104,222,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006802.jpg 344,99,366,119,0 209,89,258,231,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006803.jpg 305,323,333,412,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006809.jpg 128,96,341,374,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006833.jpg 60,40,353,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006835.jpg 205,6,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006840.jpg 58,19,368,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006945.jpg 11,133,165,500,0 116,125,309,500,0 142,4,248,135,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006982.jpg 220,99,278,195,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006986.jpg 187,32,279,484,0 71,36,195,446,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/006989.jpg 2,3,203,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007007.jpg 112,203,291,374,0 1,2,298,281,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007046.jpg 76,153,309,499,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007053.jpg 26,91,158,332,0 158,117,265,332,0 252,110,401,332,0 259,133,401,332,0 355,111,479,332,0 217,35,444,140,0 1,2,230,160,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007112.jpg 69,112,105,210,0 122,101,157,180,0 178,106,211,171,0 214,114,233,153,0 283,103,322,145,0 42,109,75,186,0 14,111,51,184,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007129.jpg 187,9,422,397,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007138.jpg 9,57,235,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007161.jpg 5,57,332,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007347.jpg 297,341,347,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007352.jpg 394,196,411,226,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007368.jpg 52,76,144,226,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007395.jpg 1,133,175,375,0 140,84,322,375,0 322,109,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007415.jpg 143,252,156,281,0 99,250,107,269,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007449.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007514.jpg 1,2,229,253,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007558.jpg 198,52,367,334,0 310,37,475,334,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007570.jpg 283,59,389,289,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007595.jpg 117,37,370,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007646.jpg 291,111,405,286,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007750.jpg 119,85,252,307,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007755.jpg 90,38,374,499,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007766.jpg 192,35,305,188,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007797.jpg 366,90,462,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007821.jpg 130,79,278,484,0 21,46,165,428,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007891.jpg 22,24,318,365,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007892.jpg 174,94,302,479,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007897.jpg 166,70,393,214,0 419,129,450,197,0 385,114,419,162,0 414,104,444,139,0 67,116,100,178,0 5,111,38,232,0 72,184,138,239,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/007902.jpg 367,1,458,110,0 1,48,189,213,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008002.jpg 75,7,259,333,0 289,64,412,333,0 249,77,310,206,0 210,176,305,282,0 1,61,71,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008086.jpg 417,80,436,107,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008108.jpg 64,216,87,294,0 80,209,109,300,0 199,202,234,319,0 376,207,402,291,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008120.jpg 62,65,325,432,0 229,186,377,434,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008157.jpg 397,107,498,327,0 353,68,451,296,0 261,87,403,330,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008164.jpg 6,96,233,375,0 153,68,369,344,0 342,90,500,247,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008170.jpg 9,1,194,374,0 301,49,401,333,0 234,57,259,114,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008172.jpg 57,14,479,488,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008175.jpg 197,4,424,374,0 12,37,242,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008192.jpg 151,54,281,274,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008195.jpg 33,1,282,288,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008204.jpg 143,145,266,336,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008207.jpg 375,18,492,193,0 301,37,396,193,0 206,46,356,195,0 143,39,231,193,0 106,51,167,193,0 11,90,108,193,0 8,243,172,398,0 159,264,227,338,0 144,264,309,398,0 270,264,330,361,0 308,306,357,398,0 329,243,447,395,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008237.jpg 330,166,344,224,0 220,184,256,244,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008259.jpg 132,47,267,204,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008263.jpg 144,178,177,260,0 162,244,217,375,0 209,234,240,369,0 230,232,286,375,0 284,241,346,372,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008301.jpg 153,191,375,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008381.jpg 62,46,463,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008391.jpg 205,118,247,178,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008410.jpg 295,156,411,367,0 1,160,153,375,0 169,121,232,226,0 260,120,319,229,0 139,170,215,375,0 211,149,298,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008445.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008475.jpg 424,92,482,205,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008485.jpg 5,3,499,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008509.jpg 82,6,175,177,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008528.jpg 445,35,500,264,0 386,75,463,252,0 243,61,403,231,0 266,93,325,172,0 192,100,247,161,0 58,75,251,306,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008574.jpg 114,174,223,377,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008587.jpg 163,84,500,375,0 172,126,321,339,0 3,135,129,305,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008604.jpg 86,20,159,268,0 147,96,230,276,0 142,190,256,328,0 251,145,353,326,0 321,101,396,202,0 336,85,391,179,0 379,82,447,173,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008605.jpg 127,86,160,145,0 242,83,274,142,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008618.jpg 1,1,164,330,0 284,17,373,149,0 391,21,455,215,0 148,7,214,161,0 89,16,149,158,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008629.jpg 3,4,333,499,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008666.jpg 1,47,322,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008690.jpg 147,14,337,267,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008698.jpg 2,29,287,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008700.jpg 237,64,440,363,0 19,64,285,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008745.jpg 235,146,305,255,0 57,149,125,275,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008833.jpg 26,1,305,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008886.jpg 167,2,241,172,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008911.jpg 136,107,158,150,0 59,206,101,312,0 15,188,46,294,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008920.jpg 61,67,230,284,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/008960.jpg 440,183,486,270,0 337,199,362,272,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009047.jpg 109,2,164,179,0 180,2,241,127,0 266,2,329,68,0 334,2,402,192,0 407,9,447,114,0 78,17,105,57,0 161,3,184,53,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009069.jpg 2,1,61,181,0 367,1,500,77,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009165.jpg 441,1,500,102,0 312,180,347,212,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009224.jpg 110,188,375,380,0 206,82,295,378,0 185,60,245,335,0 32,120,94,291,0 1,109,31,259,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009236.jpg 195,57,258,212,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009238.jpg 19,57,243,333,0 62,7,500,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009241.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009258.jpg 52,1,321,470,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009362.jpg 278,48,400,333,0 136,76,258,311,0 32,33,178,332,0 373,238,476,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009380.jpg 209,41,295,184,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009402.jpg 169,88,455,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009412.jpg 75,85,255,375,0 317,40,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009418.jpg 142,3,353,262,0 207,62,500,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009425.jpg 210,22,343,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009434.jpg 354,15,433,105,0 209,7,284,82,0 160,1,208,45,0 395,1,472,61,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009469.jpg 414,71,463,156,0 205,80,236,117,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009475.jpg 174,92,252,149,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009481.jpg 33,160,190,374,0 307,146,494,356,0 284,134,383,354,0 218,143,298,322,0 116,124,203,341,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009511.jpg 194,72,362,317,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009512.jpg 2,143,191,500,0 23,127,51,221,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009532.jpg 427,198,454,274,0 455,188,483,275,0 486,191,500,274,0 118,183,152,270,0 179,117,208,154,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009556.jpg 192,3,500,375,0 93,73,266,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009559.jpg 248,91,295,241,0 308,86,379,248,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009595.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009626.jpg 35,147,441,275,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009638.jpg 96,3,500,375,0 349,155,377,184,0 383,160,404,182,0 328,156,348,181,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009647.jpg 41,138,283,375,0 130,123,367,266,0 213,95,404,226,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009649.jpg 324,188,434,336,0 302,128,405,340,0 277,75,364,212,0 197,138,297,258,0 196,96,307,335,0 116,86,290,347,0 53,86,344,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009657.jpg 139,62,305,336,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009773.jpg 188,71,288,245,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009792.jpg 150,152,263,303,0 251,106,347,347,0 374,168,500,351,0 457,133,500,323,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009800.jpg 285,190,378,460,0 402,161,500,460,0 1,154,62,460,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009828.jpg 79,5,286,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009882.jpg 327,123,472,372,0 259,74,422,372,0 231,20,322,192,0 122,22,235,273,0 9,40,123,283,0 14,155,283,372,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009900.jpg 312,1,372,123,0 259,1,310,93,0 78,1,124,82,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/009944.jpg 145,38,305,290,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000003.jpg 62,190,83,243,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000023.jpg 137,36,169,109,0 180,36,216,104,0 96,39,123,103,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000128.jpg 1,85,361,375,0 92,173,212,357,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000144.jpg 185,56,287,241,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000195.jpg 254,144,314,296,0 309,99,443,300,0 16,173,102,305,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000204.jpg 130,206,151,251,0 132,217,164,293,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000213.jpg 95,24,414,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000416.jpg 69,169,279,499,0 303,169,375,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000522.jpg 18,79,447,335,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000548.jpg 47,113,196,500,0 179,142,278,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000578.jpg 103,68,270,199,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000588.jpg 151,55,393,323,0 33,1,287,338,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000605.jpg 1,14,284,498,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000646.jpg 21,33,288,191,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000650.jpg 16,1,293,240,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000690.jpg 74,81,375,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000704.jpg 131,164,327,337,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000729.jpg 4,4,295,200,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000834.jpg 152,141,205,219,0 329,151,404,215,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000835.jpg 173,110,408,375,0 412,72,460,170,0 348,85,447,246,0 1,112,120,272,0 90,66,182,217,0 198,72,271,178,0 254,67,288,137,0 282,66,344,114,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000953.jpg 168,148,232,329,0 154,83,250,200,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000981.jpg 188,1,212,67,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_000982.jpg 53,183,80,287,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001068.jpg 99,26,165,154,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001081.jpg 85,40,427,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001092.jpg 248,90,421,338,0 62,126,258,338,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001104.jpg 247,67,491,375,0 1,130,196,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001106.jpg 25,63,247,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001114.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001121.jpg 12,18,333,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001134.jpg 325,133,500,375,0 1,51,197,375,0 168,89,394,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001167.jpg 408,76,475,295,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001177.jpg 299,117,345,195,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001196.jpg 176,151,195,222,0 198,155,220,219,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001223.jpg 240,78,403,500,0 158,25,321,458,0 26,111,221,396,0 378,91,403,140,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001230.jpg 247,126,358,318,0 76,85,233,312,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001235.jpg 10,66,77,348,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001284.jpg 287,140,500,452,0 17,14,346,452,0 1,195,96,452,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001294.jpg 269,132,345,375,0 35,153,89,349,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001320.jpg 163,20,311,311,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001429.jpg 18,11,296,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001432.jpg 295,158,313,199,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001475.jpg 8,142,375,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001534.jpg 237,17,461,332,0 437,169,500,331,0 83,82,269,332,0 30,176,98,332,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001553.jpg 1,167,55,261,0 243,109,323,312,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001593.jpg 171,60,488,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001648.jpg 41,32,333,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001692.jpg 71,102,482,483,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001764.jpg 231,116,383,315,0 188,144,276,313,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001834.jpg 225,204,264,309,0 267,156,313,298,0 210,163,261,222,0 221,157,262,296,0 253,143,285,289,0 155,138,211,306,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001866.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001894.jpg 96,137,314,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001899.jpg 87,61,272,285,0 218,19,373,285,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001914.jpg 1,54,254,375,0 174,94,435,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001929.jpg 447,114,498,245,0 350,103,442,248,0 138,76,257,345,0 79,99,164,374,0 145,99,202,206,0 123,115,176,319,0 34,114,95,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001951.jpg 178,69,406,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_001955.jpg 1,39,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002086.jpg 366,46,490,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002132.jpg 53,131,147,316,0 104,137,198,315,0 191,143,252,316,0 248,144,313,319,0 305,137,380,318,0 370,143,438,315,0 415,131,464,192,0 459,134,499,195,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002162.jpg 29,111,100,252,0 118,103,192,271,0 188,104,313,324,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002191.jpg 150,164,217,372,0 150,186,168,232,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002250.jpg 442,31,467,78,0 299,51,323,107,0 253,48,278,74,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002324.jpg 106,1,185,166,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002327.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002347.jpg 19,38,187,442,0 109,146,422,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002377.jpg 1,129,44,293,0 29,167,125,262,0 122,39,248,239,0 377,103,431,292,0 286,90,400,291,0 218,128,292,252,0 211,62,339,257,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002414.jpg 1,22,400,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002425.jpg 102,26,235,196,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002442.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002445.jpg 143,85,333,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002484.jpg 102,55,327,500,0 49,13,267,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002487.jpg 24,119,265,297,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002491.jpg 2,182,104,400,0 132,186,211,400,0 320,150,478,400,0 120,187,155,269,0 205,207,241,291,0 274,211,285,266,0 242,219,263,266,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002576.jpg 87,116,258,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002590.jpg 118,176,208,375,0 29,163,125,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002601.jpg 18,20,372,500,0 251,301,383,386,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002631.jpg 76,10,254,413,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002645.jpg 1,109,234,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002666.jpg 208,82,322,330,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002675.jpg 133,248,308,500,0 74,45,227,453,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002676.jpg 196,123,324,213,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002700.jpg 138,73,360,365,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002746.jpg 102,136,179,307,0 1,125,46,285,0 219,156,293,307,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002752.jpg 253,90,319,283,0 216,112,270,256,0 108,158,230,313,0 48,217,164,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002776.jpg 332,181,477,292,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002792.jpg 148,113,398,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002801.jpg 1,106,204,361,0 95,124,405,375,0 117,111,300,341,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002869.jpg 205,147,280,235,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002966.jpg 49,74,117,200,0 107,19,164,178,0 142,35,173,149,0 169,39,211,119,0 170,24,210,57,0 198,27,220,108,0 213,35,230,121,0 263,54,278,134,0 227,53,272,152,0 279,84,301,138,0 303,89,320,140,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_002988.jpg 34,32,462,395,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003025.jpg 306,244,324,287,0 280,254,292,285,0 255,248,267,276,0 60,244,69,275,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003060.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003061.jpg 1,28,48,212,0 13,19,97,228,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003075.jpg 129,123,287,249,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003079.jpg 1,87,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003122.jpg 247,222,285,331,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003182.jpg 181,187,319,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003210.jpg 13,5,303,500,0 167,240,355,412,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003290.jpg 230,7,431,500,0 7,12,166,500,0 143,160,304,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003329.jpg 385,137,500,375,0 255,91,406,375,0 226,123,279,256,0 154,116,190,210,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003335.jpg 90,25,375,500,0 1,161,68,307,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003453.jpg 1,1,435,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003464.jpg 1,84,285,467,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003510.jpg 16,97,171,375,0 282,80,500,375,0 197,125,345,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003533.jpg 1,135,271,500,0 150,57,280,391,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003658.jpg 76,76,318,374,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003662.jpg 107,379,142,468,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003672.jpg 1,73,310,495,0 26,1,175,290,0 112,1,333,356,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003721.jpg 195,90,362,500,0 62,1,251,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003732.jpg 165,101,233,220,0 224,57,284,159,0 218,159,371,375,0 280,80,392,336,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003780.jpg 288,114,411,375,0 163,168,301,375,0 242,102,297,171,0 214,118,251,173,0 84,119,216,375,0 177,118,217,175,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003801.jpg 1,1,238,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003815.jpg 1,114,315,375,0 260,154,378,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003825.jpg 23,60,184,314,0 172,297,241,351,0 272,12,404,416,0 350,24,422,414,0 371,1,500,416,0 81,360,148,417,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003873.jpg 77,108,332,375,0 215,76,497,375,0 456,60,500,259,0 106,166,152,249,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003908.jpg 47,137,357,500,0 165,37,346,369,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003921.jpg 135,183,218,276,0 213,181,292,280,0 289,187,375,281,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003945.jpg 82,71,233,322,0 238,73,405,322,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003983.jpg 1,39,336,375,0 154,205,331,375,0 221,101,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_003995.jpg 250,197,500,375,0 156,88,314,375,0 81,58,281,316,0 1,24,282,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004018.jpg 323,104,493,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004088.jpg 54,218,95,474,0 103,242,157,476,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004196.jpg 101,141,248,375,0 175,143,294,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004301.jpg 281,1,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004327.jpg 349,278,377,360,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004371.jpg 351,111,475,266,0 98,101,245,259,0 30,1,199,363,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004479.jpg 238,25,500,219,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004492.jpg 118,101,226,245,0 276,119,423,291,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004506.jpg 82,27,118,93,0 411,45,437,85,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004512.jpg 77,59,296,494,0 108,239,309,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004518.jpg 110,66,423,324,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004522.jpg 50,68,247,396,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004533.jpg 206,167,317,476,0 76,58,242,336,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004629.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004678.jpg 28,1,99,172,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004862.jpg 305,120,336,269,0 259,120,330,303,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004875.jpg 361,23,486,180,0 137,244,310,375,0 88,12,200,125,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004903.jpg 120,112,269,298,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_004930.jpg 186,108,371,273,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005055.jpg 110,161,164,261,0 185,125,220,203,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005089.jpg 332,139,412,279,0 1,276,59,374,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005094.jpg 154,184,316,371,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005101.jpg 1,1,286,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005150.jpg 86,114,149,324,0 126,104,183,290,0 287,117,385,237,0 378,149,490,375,0 197,117,258,194,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005215.jpg 369,62,479,313,0 250,79,374,329,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005276.jpg 106,300,174,482,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005338.jpg 186,196,226,323,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005395.jpg 157,152,464,279,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005408.jpg 216,48,337,201,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005429.jpg 156,46,292,370,0 261,5,343,238,0 438,1,479,142,0 477,25,500,133,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005490.jpg 18,120,283,343,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005732.jpg 87,57,215,375,0 267,56,303,149,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005791.jpg 203,57,310,264,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_005846.jpg 189,43,368,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006014.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006047.jpg 159,154,309,375,0 327,148,395,375,0 310,71,342,122,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006076.jpg 139,44,337,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006120.jpg 268,143,446,375,0 273,171,381,286,0 269,160,368,304,0 260,142,323,241,0 234,154,274,216,0 155,147,233,222,0 104,150,163,231,0 124,100,215,177,0 176,88,239,196,0 180,82,348,196,0 281,91,360,180,0 13,78,120,201,0 55,155,130,264,0 1,158,97,311,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006250.jpg 36,2,301,375,0 181,156,293,360,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006272.jpg 36,110,135,378,0 166,113,245,373,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006273.jpg 124,169,398,324,0 1,143,162,330,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006404.jpg 140,221,174,237,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006540.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006586.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006610.jpg 236,149,292,273,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006611.jpg 1,109,205,343,0 338,95,497,343,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006779.jpg 85,20,218,334,0 153,29,225,219,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006807.jpg 353,121,500,375,0 12,57,146,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006841.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006863.jpg 213,1,487,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006872.jpg 433,159,477,269,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_006881.jpg 92,105,206,371,0 211,88,309,371,0 314,113,403,371,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_007075.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_007184.jpg 54,135,103,241,0 221,87,262,167,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_007222.jpg 147,60,293,346,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_007339.jpg 93,86,200,235,0 87,1,262,240,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_007346.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_007476.jpg 221,60,500,362,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_007565.jpg 86,102,254,500,0 170,119,275,462,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_007585.jpg 54,34,474,375,0 72,81,279,362,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_007660.jpg 276,102,318,156,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_007716.jpg 298,32,426,367,0 160,47,307,336,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_007746.jpg 126,72,151,102,0 73,63,106,119,0 35,74,68,118,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_007828.jpg 45,14,198,376,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_007966.jpg 53,45,246,375,0 334,53,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_008084.jpg 87,35,292,488,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_008091.jpg 23,1,297,197,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_008097.jpg 383,80,416,125,0 244,115,325,272,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_008127.jpg 285,115,349,289,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_008210.jpg 163,123,246,276,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_008229.jpg 301,194,339,341,0 159,116,296,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_008335.jpg 6,62,377,474,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_008391.jpg 202,29,361,293,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_008444.jpg 108,85,400,377,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_008552.jpg 169,36,340,266,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_008637.jpg 222,125,335,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_008695.jpg 191,98,330,213,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2008_008719.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000085.jpg 143,183,172,239,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000197.jpg 401,121,423,178,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000257.jpg 223,80,500,179,0 1,61,134,183,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000418.jpg 27,130,334,429,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000430.jpg 125,1,232,186,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000463.jpg 1,1,273,334,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000496.jpg 262,1,500,344,0 41,1,172,57,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000529.jpg 401,1,500,333,0 325,292,431,333,0 223,255,323,333,0 371,176,448,333,0 8,30,168,333,0 134,117,246,333,0 195,214,246,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000563.jpg 339,17,477,354,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000565.jpg 3,188,82,334,0 237,113,272,234,0 380,123,469,292,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000661.jpg 366,329,454,377,0 164,281,272,377,0 24,319,88,377,0 99,319,153,377,0 146,314,172,377,0 250,324,297,377,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000726.jpg 288,101,326,175,0 347,101,382,169,0 5,100,31,137,0 65,105,88,129,0 413,94,447,171,0 440,105,456,165,0 450,100,478,158,0 483,99,500,140,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000825.jpg 265,79,297,124,0 193,95,228,130,0 400,78,422,171,0 294,146,392,303,0 113,168,202,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_000856.jpg 225,68,305,306,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001000.jpg 6,1,54,121,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001091.jpg 1,128,74,375,0 63,146,126,350,0 120,126,185,344,0 171,122,221,283,0 189,143,251,369,0 188,120,280,306,0 217,123,355,344,0 305,117,378,352,0 370,112,440,363,0 420,113,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001098.jpg 1,131,65,225,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001137.jpg 187,121,355,334,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001313.jpg 183,132,236,254,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001319.jpg 119,78,216,301,0 15,85,152,318,0 1,94,45,154,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001345.jpg 84,252,113,296,0 55,243,71,292,0 2,240,20,298,0 18,244,40,299,0 46,257,59,290,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001427.jpg 342,38,459,237,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001443.jpg 388,139,464,251,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001468.jpg 277,256,335,437,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001581.jpg 69,1,354,330,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001709.jpg 183,182,348,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001764.jpg 118,81,283,348,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001856.jpg 161,339,247,468,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_001864.jpg 293,187,344,317,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_002182.jpg 27,85,138,208,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_002192.jpg 170,88,273,329,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_002285.jpg 121,34,479,279,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_002312.jpg 137,205,148,226,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_002331.jpg 107,144,130,179,0 113,145,154,196,0 168,149,218,185,0 168,159,223,258,0 337,163,409,285,0 409,151,476,273,0 374,143,397,169,0 57,150,86,224,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_002346.jpg 161,14,394,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_002358.jpg 249,178,267,202,0 276,183,294,204,0 386,170,423,214,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_002471.jpg 306,82,447,247,0 15,96,187,375,0 212,87,327,220,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_002504.jpg 1,40,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_002512.jpg 176,179,223,216,0 162,75,195,108,0 192,74,226,107,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_002586.jpg 357,63,486,265,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_002715.jpg 114,218,208,445,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_003019.jpg 346,337,364,355,0 363,331,379,356,0 392,341,408,358,0 439,336,459,349,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_003154.jpg 3,101,130,375,0 80,90,199,263,0 315,118,500,375,0 308,139,404,295,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_003175.jpg 437,86,499,150,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_003255.jpg 312,1,342,51,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_003310.jpg 177,57,356,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_003320.jpg 126,163,229,415,0 141,71,375,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_003459.jpg 68,310,174,457,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_003462.jpg 481,217,494,247,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_003637.jpg 104,33,283,273,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_003650.jpg 413,182,435,207,0 486,170,500,241,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_003753.jpg 193,123,395,346,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_003785.jpg 1,98,323,338,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_003829.jpg 47,122,223,334,0 255,106,356,293,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_004007.jpg 340,103,500,375,0 110,108,330,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_004032.jpg 342,51,500,372,0 8,92,114,310,0 216,85,341,233,0 23,56,69,93,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_004074.jpg 19,1,284,154,0 304,1,500,212,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_004133.jpg 112,80,273,333,0 340,66,456,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_004179.jpg 95,25,240,284,0 1,1,48,192,0 226,41,262,75,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_004212.jpg 202,133,247,215,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_004213.jpg 492,211,500,239,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_004503.jpg 50,127,150,181,0 192,118,327,190,0 368,136,456,185,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_004508.jpg 270,93,334,294,0 195,85,255,263,0 182,103,215,223,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_005203.jpg 236,16,342,233,0 411,132,441,185,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_005229.jpg 292,37,468,319,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2009_005297.jpg 291,72,431,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_000095.jpg 225,159,324,348,0 10,156,89,324,0 57,149,88,297,0 88,149,124,289,0 115,189,145,284,0 170,192,195,285,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_000296.jpg 240,1,452,320,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_000361.jpg 144,99,340,375,0 1,172,229,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_000389.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_000444.jpg 135,110,185,281,0 15,124,62,199,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_000500.jpg 13,20,441,312,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_000561.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_000564.jpg 102,12,481,374,0 1,195,153,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_000578.jpg 75,103,301,365,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_000603.jpg 81,174,105,218,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_000645.jpg 402,200,490,375,0 302,221,321,261,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_000912.jpg 1,26,267,361,0 1,169,267,400,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_000929.jpg 103,261,129,309,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001107.jpg 247,24,487,375,0 24,140,161,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001148.jpg 208,33,320,207,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001254.jpg 228,55,309,277,0 204,101,245,247,0 138,69,196,267,0 71,71,135,263,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001263.jpg 70,96,104,188,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001299.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001385.jpg 1,111,123,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001401.jpg 11,1,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001408.jpg 123,262,144,319,0 62,259,105,377,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001411.jpg 180,135,234,304,0 215,143,281,314,0 336,136,391,334,0 306,118,354,315,0 8,167,18,198,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001563.jpg 215,127,286,351,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001645.jpg 84,135,117,197,0 104,87,160,249,0 145,72,213,219,0 205,70,276,216,0 243,115,336,299,0 215,119,374,332,0 361,160,478,332,0 414,126,490,242,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001680.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001729.jpg 140,223,164,256,0 263,199,288,258,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001891.jpg 106,1,295,360,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001892.jpg 225,129,286,259,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_001960.jpg 1,59,500,375,0 249,30,473,251,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002002.jpg 21,110,212,331,0 357,106,500,328,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002154.jpg 267,91,461,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002457.jpg 57,114,202,349,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002526.jpg 17,94,329,500,0 1,169,134,304,0 222,95,329,316,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002597.jpg 38,62,242,479,0 2,169,29,223,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002603.jpg 255,138,311,190,0 87,58,263,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002623.jpg 93,1,418,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002682.jpg 1,176,14,208,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002747.jpg 169,46,286,262,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002792.jpg 140,59,500,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002822.jpg 118,132,241,321,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002851.jpg 1,251,13,295,0 13,250,25,286,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002865.jpg 164,116,308,319,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002881.jpg 26,6,329,338,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002903.jpg 182,138,246,183,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002914.jpg 131,75,306,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_002987.jpg 66,84,252,361,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_003043.jpg 301,55,475,215,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_003332.jpg 2,115,129,375,0 74,114,151,176,0 156,117,249,295,0 460,119,500,231,0 120,159,343,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_003526.jpg 2,156,284,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_003585.jpg 138,134,241,292,0 245,93,348,290,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_003612.jpg 49,91,75,156,0 70,95,100,152,0 94,106,107,148,0 1,89,30,190,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_003664.jpg 186,108,225,144,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_003728.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_003731.jpg 3,115,186,375,0 72,151,228,375,0 236,158,457,375,0 256,185,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_003825.jpg 182,203,202,235,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_003859.jpg 282,55,339,238,0 114,137,207,237,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_003878.jpg 81,192,140,270,0 152,214,210,267,0 255,180,319,260,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_003892.jpg 226,97,245,130,0 347,100,377,135,0 389,30,483,91,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_003995.jpg 60,1,407,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_004073.jpg 1,1,410,328,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_004094.jpg 78,82,325,377,0 28,20,500,377,0 1,1,93,377,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_004469.jpg 68,172,84,229,0 86,170,110,230,0 1,115,150,375,0 148,84,300,375,0 251,61,445,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_004506.jpg 1,28,500,375,0 215,76,358,276,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_004554.jpg 447,159,500,363,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_004581.jpg 384,1,484,220,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_004773.jpg 206,333,242,374,0 250,289,286,367,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_004815.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_004995.jpg 5,87,77,200,0 273,96,325,297,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005013.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005243.jpg 333,58,400,189,0 411,203,500,333,0 339,136,367,190,0 279,136,359,333,0 179,180,307,333,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005352.jpg 132,143,164,218,0 154,136,190,229,0 181,138,222,226,0 211,134,248,228,0 238,132,278,223,0 271,129,302,219,0 285,132,336,228,0 332,111,402,318,0 290,204,356,310,0 248,191,315,302,0 207,195,267,300,0 188,203,229,297,0 151,200,202,298,0 137,201,171,295,0 90,204,148,307,0 84,132,141,300,0 415,13,424,34,0 492,166,500,210,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005493.jpg 22,1,307,174,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005538.jpg 90,62,129,243,0 93,60,387,374,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005571.jpg 231,208,264,316,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005596.jpg 462,178,486,242,0 366,177,387,250,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005697.jpg 51,3,338,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005723.jpg 141,32,500,374,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005817.jpg 230,134,276,162,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005826.jpg 1,1,500,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005835.jpg 179,102,407,363,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005884.jpg 322,30,500,282,0 27,22,233,257,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005898.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2010_005991.jpg 53,47,391,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000041.jpg 129,83,357,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000130.jpg 458,131,491,229,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000161.jpg 114,176,189,397,0 1,252,32,336,0 88,257,111,316,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000192.jpg 48,99,173,314,0 145,96,245,290,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000220.jpg 90,64,265,329,0 19,22,79,178,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000285.jpg 272,155,330,215,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000290.jpg 145,259,240,347,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000304.jpg 240,86,492,375,0 13,88,205,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000347.jpg 83,172,110,244,0 101,171,132,247,0 239,169,272,229,0 288,168,310,195,0 374,165,399,220,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000505.jpg 96,112,194,325,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000748.jpg 303,158,397,391,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000767.jpg 166,216,211,268,0 51,366,91,475,0 1,369,37,484,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000819.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000827.jpg 201,108,500,375,0 260,142,429,375,0 189,138,312,338,0 155,145,221,249,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000888.jpg 332,144,369,177,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_000986.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001010.jpg 117,71,500,258,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001027.jpg 115,179,422,375,0 186,113,362,303,0 48,120,211,239,0 59,92,272,199,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001062.jpg 1,81,50,168,0 393,69,427,127,0 473,64,498,134,0 417,69,454,130,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001159.jpg 22,58,191,445,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001203.jpg 97,99,143,246,0 149,98,218,162,0 243,93,276,163,0 321,152,374,210,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001285.jpg 28,437,244,500,0 108,348,240,479,0 182,73,269,186,0 250,75,277,116,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001327.jpg 156,128,349,375,0 1,247,77,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001336.jpg 54,55,161,192,0 143,1,296,192,0 238,51,406,209,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001382.jpg 1,1,228,202,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001422.jpg 81,118,260,375,0 244,101,371,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001655.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001678.jpg 275,4,500,375,0 172,101,312,208,0 7,50,220,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001790.jpg 1,153,500,375,0 155,59,374,222,0 288,74,425,189,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001815.jpg 240,59,301,186,0 8,115,33,157,0 24,116,60,157,0 52,116,88,155,0 62,113,98,154,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001826.jpg 275,143,322,259,0 325,150,352,262,0 167,140,185,188,0 218,143,232,178,0 190,142,207,186,0 53,147,65,186,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001842.jpg 331,113,500,375,0 346,117,439,278,0 316,114,373,228,0 286,95,334,181,0 174,120,211,176,0 136,123,182,215,0 83,116,151,278,0 1,117,135,344,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001885.jpg 259,215,279,275,0 283,221,301,282,0 212,219,252,307,0 239,212,263,281,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001891.jpg 292,73,319,131,0 352,71,368,110,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001900.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001937.jpg 351,155,397,222,0 295,159,347,224,0 147,97,193,223,0 147,129,218,286,0 20,110,41,154,0 1,101,31,254,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001964.jpg
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_001977.jpg 157,179,207,252,0 203,179,229,209,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002335.jpg 233,158,500,333,0 181,136,438,375,0 59,134,196,201,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002343.jpg 83,9,333,491,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002435.jpg 2,88,332,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002436.jpg 44,6,402,375,0 204,115,364,358,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002498.jpg 1,48,324,500,0 175,309,375,446,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002566.jpg 10,59,360,336,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002650.jpg 341,101,397,304,0 104,101,216,244,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002709.jpg 1,1,500,290,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002842.jpg 37,77,237,360,0 321,75,419,360,0 149,63,228,360,0 324,91,353,116,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002852.jpg 149,260,375,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002962.jpg 461,163,494,267,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002967.jpg 32,13,500,375,0 104,298,340,375,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002983.jpg 232,172,282,244,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_002985.jpg 42,33,108,104,0 20,1,331,185,0 150,5,490,373,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_003066.jpg 38,34,153,180,0 163,28,232,96,0 130,44,232,208,0 306,32,369,163,0 1,133,164,375,0 178,65,318,237,0 374,65,500,244,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_003078.jpg 239,80,335,267,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_003162.jpg 15,87,265,373,0 232,92,480,373,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_003230.jpg 27,88,175,463,0 170,44,331,438,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_003240.jpg 15,9,270,500,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_003261.jpg 130,210,186,292,0
+D:\ke\ssd\ssdv1\ssd_ours\VOCdevkit/VOC2007/JPEGImages/2011_003262.jpg 2,45,190,359,0 98,49,219,222,0 116,24,226,192,0 178,31,266,139,0 341,39,397,153,0 364,54,430,172,0 336,71,448,221,0 285,77,500,359,0

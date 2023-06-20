@@ -1,0 +1,59 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>001992.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>339316637</flickrid>
+	</source>
+	<owner>
+		<flickrid>sujitra</flickrid>
+		<name>Sujitra Pookpanratana</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Frontal</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>10</ymin>
+			<xmax>215</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+		<part>
+			<name>hand</name>
+			<bndbox>
+				<xmin>25</xmin>
+				<ymin>250</ymin>
+				<xmax>78</xmax>
+				<ymax>292</ymax>
+			</bndbox>
+		</part>
+		<part>
+			<name>hand</name>
+			<bndbox>
+				<xmin>103</xmin>
+				<ymin>199</ymin>
+				<xmax>155</xmax>
+				<ymax>232</ymax>
+			</bndbox>
+		</part>
+		<part>
+			<name>head</name>
+			<bndbox>
+				<xmin>119</xmin>
+				<ymin>11</ymin>
+				<xmax>197</xmax>
+				<ymax>117</ymax>
+			</bndbox>
+		</part>
+	</object>
+</annotation>

@@ -1,0 +1,54 @@
+<annotation>
+	<filename>2010_004942.jpg</filename>
+	<folder>VOC2012</folder>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmax>369</xmax>
+			<xmin>197</xmin>
+			<ymax>264</ymax>
+			<ymin>21</ymin>
+		</bndbox>
+		<difficult>0</difficult>
+		<occluded>1</occluded>
+		<pose>Frontal</pose>
+		<truncated>1</truncated>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmax>466</xmax>
+			<xmin>367</xmin>
+			<ymax>233</ymax>
+			<ymin>121</ymin>
+		</bndbox>
+		<difficult>0</difficult>
+		<occluded>1</occluded>
+		<pose>Frontal</pose>
+		<truncated>1</truncated>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmax>141</xmax>
+			<xmin>23</xmin>
+			<ymax>345</ymax>
+			<ymin>211</ymin>
+		</bndbox>
+		<difficult>0</difficult>
+		<occluded>1</occluded>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+	</object>
+	<segmented>0</segmented>
+	<size>
+		<depth>3</depth>
+		<height>375</height>
+		<width>500</width>
+	</size>
+	<source>
+		<annotation>PASCAL VOC2010</annotation>
+		<database>The VOC2010 Database</database>
+		<image>flickr</image>
+	</source>
+</annotation>

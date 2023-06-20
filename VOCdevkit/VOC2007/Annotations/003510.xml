@@ -1,0 +1,32 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>003510.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>330037087</flickrid>
+	</source>
+	<owner>
+		<flickrid>.:kemal:.</flickrid>
+		<name>KEMAL YAYLALI</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>195</ymin>
+			<xmax>310</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

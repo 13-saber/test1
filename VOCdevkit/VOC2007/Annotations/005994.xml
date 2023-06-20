@@ -1,0 +1,59 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>005994.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>337991297</flickrid>
+	</source>
+	<owner>
+		<flickrid>my hips don't lie</flickrid>
+		<name>liz</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Left</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>93</ymin>
+			<xmax>346</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+		<part>
+			<name>head</name>
+			<bndbox>
+				<xmin>185.379</xmin>
+				<ymin>93.6129</ymin>
+				<xmax>264.8145</xmax>
+				<ymax>189.9839</ymax>
+			</bndbox>
+		</part>
+		<part>
+			<name>hand</name>
+			<bndbox>
+				<xmin>147.0726</xmin>
+				<ymin>263.7742</ymin>
+				<xmax>192.6371</xmax>
+				<ymax>288.7742</ymax>
+			</bndbox>
+		</part>
+		<part>
+			<name>hand</name>
+			<bndbox>
+				<xmin>134.1694</xmin>
+				<ymin>283.129</ymin>
+				<xmax>194.6532</xmax>
+				<ymax>316.5968</ymax>
+			</bndbox>
+		</part>
+	</object>
+</annotation>

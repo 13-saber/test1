@@ -1,0 +1,44 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>007944.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>331593468</flickrid>
+	</source>
+	<owner>
+		<flickrid>srhbth</flickrid>
+		<name>Sarah Beth</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>212</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>80</ymin>
+			<xmax>89</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>70</ymin>
+			<xmax>415</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>
